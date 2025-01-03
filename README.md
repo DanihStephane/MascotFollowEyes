@@ -55,4 +55,4 @@ La mascotte et le formulaire peuvent être personnalisés via les classes Tailwi
 
 ## 📝 License
 
-MIT
+free : https://github.com/DanihStephane
